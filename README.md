@@ -1,5 +1,6 @@
-# ChatBot-using-NLP-and-Deep-Learning
-I embarked on a journey to develop a chatbot capable of recognizing user intents and providing meaningful responses. Here's an overview of my project:
+# NLP ChatBot
+
+### I embarked on a journey to develop a chatbot capable of recognizing user intents and providing meaningful responses. Here's an overview of my project:
 
    - I started by collecting a dataset of user intents and corresponding responses. The dataset contained various intent categories, including greetings, queries, jokes.
 
